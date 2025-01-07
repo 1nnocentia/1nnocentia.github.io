@@ -41,3 +41,11 @@ For interactive use, please visit: [Tableau](https://public.tableau.com/views/Ka
 
 ## Machine Learning
 ### Time Series Model
+MAE is found to be 0.24, meaning the model's forecasts differ from the actual values by approximately 0.24 units. MAPE is 6.53%, meaning the model's forecasts deviate from the actual values by about 6.53%. MSE is 0.08, meaning the model's forecasts have, on average, squared differences of 0.08 with the actual values. RMSE is 0.29, meaning the model's forecasts have a root mean squared difference of approximately 0.29 with the actual values.
+
+### Clustering Model
+From the 2-cluster division, it is found that in cluster 1, customers have a higher preference for Thai Tea, Ginger Candy, and Oat. Meanwhile, in cluster 0, customers have a higher preference for Cheese Stick, Choco bar, Crackers, and Cashew.
+
+
+Code source: 
+![Github](https://github.com/1nnocentia/Kalbe_Nutritional)
