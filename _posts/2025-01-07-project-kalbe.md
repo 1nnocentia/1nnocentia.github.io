@@ -37,7 +37,7 @@ Top Product by Total Amount: **Cheese Stick**
 
 ## Tableau Dashboard
 For interactive use, please visit: [Tableau](https://public.tableau.com/views/Kalbe_FinalTask/Kalbe_Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
-![Tableau](assets\gif\kalbe.gif)
+![Tableau](assets/gif/kalbe.gif)
 
 ## Machine Learning
 ### Time Series Model
