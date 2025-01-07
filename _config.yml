@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://1nnocentia.github.io"
+url: 'https://1nnocentia.github.io'
 
 github:
   username: 1nnocentia # change to your GitHub username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Innocentia Han
+  name: Innocentia Handani
   email: innocentiahan@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -87,7 +87,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode:  # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -97,7 +97,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\img\Me1.jpg
+avatar: 'assets\img\Me1.jpg'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
