@@ -33,6 +33,19 @@ order: 4
 - Machine Translation
 - Locality-Sensitive Hasing
 - Sentiment Analysis
+#### Supervised Machine Learning: Regression and Classification by *DeepLearning.AI, Coursera, Stanford CPD, UVM*
+- Gradient Descent
+- Logistic Regression
+- Regularization
+- Linear Regression
+- Supervised Learning
+#### Certificate of Competencies - Kalbe Nutritional Data Scientist Virtual Internship Experience Program
+- Exploratory Data Analysis
+- Fundamental of Database Management System
+- Statistics
+- SQL Operation
+- Data Science Fundamental
+- Fundamental of Big Data
   
 ### **Profile Links**
 - [LinkedIn](https://www.linkedin.com/in/innocentia-handani)
