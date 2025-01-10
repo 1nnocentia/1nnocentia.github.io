@@ -23,9 +23,17 @@ order: 4
 
 **Project**:
 
-| [University or School] | Degree | Year | Field of Study |
+| Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning | Jun 2023 | [Presentation](https://www.linkedin.com/in/innocentia-handani/details/projects/1541399917/multiple-media-viewer/?profileId=ACoAADQg4rgBz8qGp6VqqhcX0dJCKomxuYVxwSQ&treasuryMediaId=1635530275953) |
+| Investigate Hotel Business using Data Visualization | May 2023 | [Presentation](https://www.linkedin.com/in/innocentia-handani/details/projects/510453075/multiple-media-viewer/?profileId=ACoAADQg4rgBz8qGp6VqqhcX0dJCKomxuYVxwSQ&treasuryMediaId=1635529193209) |
+| Analyzing eCommerce Business Performance with SQL | Apr 2023 | [Presentation](https://www.linkedin.com/in/innocentia-handani/details/projects/508337280/multiple-media-viewer/?profileId=ACoAADQg4rgBz8qGp6VqqhcX0dJCKomxuYVxwSQ&treasuryMediaId=1635529057980) |
 
-
+### Certification and Licenses
+#### Natural Language Processing with Classification and Vector Spaces by *DeepLearning.AI*
+- Word Embeddings
+- Machine Translation
+- Locality-Sensitive Hasing
+- Sentiment Analysis
+  
 ### **Profile Links**
 - [LinkedIn](https://www.linkedin.com/in/innocentia-handani)
 - [GitHub](https://github.com/1nnocentia)
