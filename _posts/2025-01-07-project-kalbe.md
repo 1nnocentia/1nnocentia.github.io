@@ -47,5 +47,4 @@ MAE is found to be 0.24, meaning the model's forecasts differ from the actual va
 From the 2-cluster division, it is found that in cluster 1, customers have a higher preference for Thai Tea, Ginger Candy, and Oat. Meanwhile, in cluster 0, customers have a higher preference for Cheese Stick, Choco bar, Crackers, and Cashew.
 
 
-Code source: 
-![Github](https://github.com/1nnocentia/Kalbe_Nutritional)
+*Code source:* [Github](https://github.com/1nnocentia/Kalbe_Nutritional)
