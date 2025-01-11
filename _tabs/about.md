@@ -8,7 +8,7 @@ order: 4
 ## **_Innocentia Handani_**
 <div style="display: flex; align-items: center;">
   <div style="flex-shrink: 0; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; position: relative;">
-    <img src="{{ site.baseurl }}/assets/img/Me1.jpg" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; right: 0; bottom: 0;">
+    <img src="{{ site.baseurl }}/assets/img/potrait.jpg" alt="Profile Picture" style="width: 100%; height: 100%; object-fit: cover; position: absolute; top: 0; left: 0; right: 0; bottom: 0;">
   </div>
 </div>
 <br>
