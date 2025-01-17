@@ -4,6 +4,8 @@ date: 2024-12-18
 categories: [Easy101, Algebra]
 tags: [Math, Linear Equations, Basics]
 excerpt: 'Understand linear equations in one variable and learn how to solve them step by step with examples.'
+image:
+   path: assets/img/linear.jpg
 ---
 ### What is a Linear Equation in One Variable?
 

@@ -4,6 +4,8 @@ date: 2025-01-07
 categories: [Project, Github]
 tags: [Inventory, Marketing, Problem Statement, Project, Data Visualisation, Machine Learning]
 excerpt: 'KALBE Nutritionals is a company engaged in the business of health food and beverages, with a mission to provide the best nutrition solutions for a better life. KALBE Nutritionals offers a range of nutritional products for every stage of life, starting from pregnancy preparation, through pregnancy, nutrition for babies, children, adults, and even the elderly.'
+image:
+    path: assets/img/kalbe.jpg
 ---
 ## Problem Statement
 ### Inventory Team: 

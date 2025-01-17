@@ -4,6 +4,8 @@ date: 2025-01-07
 categories: [Project, Github]
 tags: [E-Commerce, Churn, Prediction, Project, Data Visualisation, Machine Learning]
 excerpt: 'As a data science team, our goal is to predict customer churn in an e-commerce setting and provide recommendations to enhance engagement and reduce the churn rate.'
+image:
+    path: assets/img/churn.jpg
 ---
 
 ## Metrics:
